@@ -57,5 +57,5 @@ The Library Management System is a comprehensive solution designed to manage boo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/voidMatrix-getit/odoo.git
-   cd odoo
+   git clone https://github.com/mahir-makwana/Odoo-Event.git
+   cd Odoo-Event
