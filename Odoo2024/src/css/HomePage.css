@@ -1,0 +1,66 @@
+/* Ensure Bootstrap is included if using custom styles */
+/* You can include Bootstrap in your index.html or import it in your main JavaScript file */
+
+.card {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.card-img-left {
+    width: 200px; /* Adjust width */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-subtitle {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.card-text {
+    font-size: 0.875rem;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+.form-control {
+    flex: 1;
+}
+
+.mt-3 {
+    margin-top: 1rem !important;
+}
+
+.mt-4 {
+    margin-top: 1.5rem !important;
+}
+
+.mb-3 {
+    margin-bottom: 1rem !important;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+.btn-outline-primary, .btn-outline-success {
+    margin-left: 10px;
+}

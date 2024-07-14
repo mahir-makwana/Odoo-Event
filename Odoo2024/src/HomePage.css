@@ -1,0 +1,55 @@
+body {
+    background-color: #222;
+    color: #eee;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .input-group {
+    justify-content: center;
+  }
+  
+  .card {
+    background-color: #333;
+    border: none;
+    color: #eee;
+  }
+  
+  .card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .new-arrivals,
+.trending {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.new-arrivals h2,
+.trending h2 {
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-subtitle {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.card-text {
+  font-size: 0.875rem;
+}
